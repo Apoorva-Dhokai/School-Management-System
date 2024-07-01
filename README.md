@@ -36,8 +36,9 @@ The School Management System is a web-based application built using the MERN (Mo
 
 <br>
 
-
 # Deployment
-* Render - server side
-* Netlify - client side
 
+- Render - server side
+- Netlify - client side
+
+# School-Management-System
